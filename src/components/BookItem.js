@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import Card from 'react-bootstrap/Card';
 const BookItem = ({ book }) => {
-    // const [test , setTest] = useState() 
     
     return (
         <Card>
